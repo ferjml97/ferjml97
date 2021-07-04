@@ -14,7 +14,7 @@ Es para que conozcas un poco de mi persona y el contenido que puedes encontrar e
 - ⚙   Estoy dispuesto en colaborar en proyectos de **Data Science** 
 - 👀  Estoy buscando ayuda con participación y creación de proyectos demos de **Data Science** 
 - 💬  Puedes preguntarme por algún tema o código de mi perfil en GitHub
-- 📓  Apuntes de estudios en <a href= >Notion
+- 📓  Apuntes de estudios en <a href="https://www.notion.so/ferjml97">Notion
 - 📫  Puedes contactarme por:
   
   <a href= "ferjml97@gmail.com">Correo electronico</a>
