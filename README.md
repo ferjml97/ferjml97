@@ -24,12 +24,10 @@ Es para que conozcas un poco de mi persona y el contenido que puedes encontrar e
   [![LinkedIn](https://s2.aconvert.com/convert/p3r68-cdx67/tmxov-6wklw.png)](https://www.linkedin.com/in/ferjml97/)
   [![Facebook](https://s2.aconvert.com/convert/p3r68-cdx67/twyuv-0llmp.png)](https://www.facebook.com/ferjml3960)
   
-  <a href="mailto:email@Mailto.co.uk?cc=ferjml97@gmail.com&subject=Contactar&body=Email Using Mailto.co.uk">Mailto.co.uk</a>
-  
 ## 👨‍💻Tecnologías
 Aqui podrás encontrar repositorios sobre y con estás tecnologías.
 
-### 🅿Lenguajes de Programación
+### ☕ Lenguajes de Programación
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -43,7 +41,8 @@ Aqui podrás encontrar repositorios sobre y con estás tecnologías.
 
 [![Grafica](https://activity-graph.herokuapp.com/graph?username=ferjml97&custom_title=Last%2031%20Days&theme=github&area=true&hide_border=true)]()
 
-> > > > [![Lo que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=ferjml97&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=293036ff&title_color=DDDDDD&text_color=DDDDDD&hide_border=false&border_color=293036ff&line_height=20)](https://github.com/anuraghazra/github-readme-stats) [![Racha](http://github-readme-streak-stats.herokuapp.com?user=ferjml97&theme=radical&hide_border=true&background=293036&dates=293036&ring=60BEDC&sideNums=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=36CF21&fire=FF6247&sideLabels=DDDDDD#center)](https://git.io/streak-stats) 
+[![Lo que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=ferjml97&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=293036ff&title_color=DDDDDD&text_color=DDDDDD&hide_border=false&border_color=293036ff&line_height=20)](https://github.com/anuraghazra/github-readme-stats) 
+[![Racha](http://github-readme-streak-stats.herokuapp.com?user=ferjml97&theme=radical&hide_border=true&background=293036&dates=293036&ring=60BEDC&sideNums=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=36CF21&fire=FF6247&sideLabels=DDDDDD#center)](https://git.io/streak-stats) 
 
 
 ## 🤓 Estudio extra
