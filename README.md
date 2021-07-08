@@ -20,7 +20,7 @@ Es para que conozcas un poco de mi persona y el contenido que puedes encontrar e
 - 📓  Apuntes de estudios en [Notion](https://www.notion.so/ferjml97/Apuntes-General-53791d6dbd6a4a4aaa0ca7e062cf28da/)
 - 📫  Puedes contactarme por:
   
-  [![Gmail](https://s2.aconvert.com/convert/p3r68-cdx67/thcat-gt6tm.png)](ferjml97@gmail.com)
+  [![Gmail](https://s2.aconvert.com/convert/p3r68-cdx67/thcat-gt6tm.png)](mailto:ferjml97@gmail?subject=Contacto&body=Quisiera%20comunicarme%20contigo.)
   [![LinkedIn](https://s2.aconvert.com/convert/p3r68-cdx67/tmxov-6wklw.png)](https://www.linkedin.com/in/ferjml97/)
   [![Facebook](https://s2.aconvert.com/convert/p3r68-cdx67/twyuv-0llmp.png)](https://www.facebook.com/ferjml3960)
   
@@ -42,6 +42,7 @@ Aqui podrás encontrar repositorios sobre y con estás tecnologías.
 [![Grafica](https://activity-graph.herokuapp.com/graph?username=ferjml97&custom_title=Last%2031%20Days&theme=github&area=true&hide_border=true)]()
 
 [![Lo que más uso](https://github-readme-stats.vercel.app/api/top-langs/?username=ferjml97&layout=compact&custom_title=Lo%20que%20m%C3%A1s%20uso%20&hide_title=false&langs_count=10&card_width=230&bg_color=293036ff&title_color=DDDDDD&text_color=DDDDDD&hide_border=false&border_color=293036ff&line_height=20)](https://github.com/anuraghazra/github-readme-stats) 
+[![]()]()
 [![Racha](http://github-readme-streak-stats.herokuapp.com?user=ferjml97&theme=radical&hide_border=true&background=293036&dates=293036&ring=60BEDC&sideNums=DDDDDD&currStreakLabel=DDDDDD&currStreakNum=36CF21&fire=FF6247&sideLabels=DDDDDD#center)](https://git.io/streak-stats) 
 
 
