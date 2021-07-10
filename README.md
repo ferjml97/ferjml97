@@ -20,7 +20,7 @@ Es para que conozcas un poco de mi persona y el contenido que puedes encontrar e
 - 📓  Apuntes de estudios en [Notion](https://www.notion.so/ferjml97/Apuntes-General-53791d6dbd6a4a4aaa0ca7e062cf28da/)
 - 📫  Puedes contactarme por:
   
-  [![Gmail](https://s2.aconvert.com/convert/p3r68-cdx67/trvlm-vssbl.png)](mailto:ferjml97@gmail?subject=Contacto&body=Quisiera%20comunicarme%20contigo.)
+  [![Gmail](https://s2.aconvert.com/convert/p3r68-cdx67/tdd8c-uixob.png)](mailto:ferjml97@gmail?subject=Contacto&body=Quisiera%20comunicarme%20contigo.)
   [![LinkedIn](https://s2.aconvert.com/convert/p3r68-cdx67/tmxov-6wklw.png)](https://www.linkedin.com/in/ferjml97/)
   [![Facebook](https://s2.aconvert.com/convert/p3r68-cdx67/twyuv-0llmp.png)](https://www.facebook.com/ferjml3960)
   
