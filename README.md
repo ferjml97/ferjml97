@@ -23,7 +23,14 @@ Es para que conozcas un poco de mi persona y el contenido que puedes encontrar e
   [![Gmail](https://i.imgur.com/1TrWNJ2.png)](mailto:ferjml97@gmail?subject=Contacto&body=Quisiera%20comunicarme%20contigo.)
   [![LinkedIn](https://i.imgur.com/GO7MTlN.png)](https://www.linkedin.com/in/ferjml97/)
   [![Facebook](https://i.imgur.com/FbuGNc2.png)](https://www.facebook.com/ferjml3960)
+  [![YouTube]()]()
+ 
+  Plataformas
+ [![Behance]()]()
+  [![Figma]()]()
   
+  
+
 ## 👨‍💻Tecnologías
 Aqui podrás encontrar repositorios sobre y con estás tecnologías.
 
