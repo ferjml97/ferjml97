@@ -23,11 +23,14 @@ Es para que conozcas un poco de mi persona y el contenido que puedes encontrar e
   [![Gmail](https://i.imgur.com/1TrWNJ2.png)](mailto:ferjml97@gmail?subject=Contacto&body=Quisiera%20comunicarme%20contigo.)
   [![LinkedIn](https://i.imgur.com/GO7MTlN.png)](https://www.linkedin.com/in/ferjml97/)
   [![Facebook](https://i.imgur.com/FbuGNc2.png)](https://www.facebook.com/ferjml3960)
-  [![YouTube]()]()
+  [![YouTube](https://i.imgur.com/TzlIW1q.png)](https://www.youtube.com/channel/UCDywycMOpGWDuRJyIHWeQcQ)
+  [![Twitter](https://i.imgur.com/4nmEctu.png)](https://twitter.com/ferjml97)
+  [![What's App](https://i.imgur.com/AeziQky.png)](https://wa.me/message/QUL5EZLQMLQYL1)
  
-  Plataformas
- [![Behance]()]()
-  [![Figma]()]()
+ Plataformas
+    
+  [![Behance](https://i.imgur.com/BLEzUxB.png)]()
+  [![Figma](https://i.imgur.com/EDRpAvg.png)]()
   
   
 
@@ -60,4 +63,4 @@ Aqui podrás encontrar repositorios sobre y con estás tecnologías.
 - [ ] Aprender Angula 8
 
 
-**@ferjml97**
+✏❤ **@ferjml97**
